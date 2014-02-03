@@ -2,7 +2,7 @@ cit-261-winter-2014
 ===================
 
 
-# These are your required tools
+# These are useful tools
 * Install Brackets
 * Install Git
 * Install Chrome
