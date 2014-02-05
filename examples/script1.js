@@ -1,5 +1,3 @@
-var BabyNames = {};
-
-BabyNames.buy = function(){
-    alert('Bought it for '+ BabyNames.add(1,2));   
+var buy = function(){
+    alert('Bought it for '+ add(1,2));   
 };
